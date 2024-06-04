@@ -4,7 +4,7 @@
     "random": 6,
     "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
@@ -14,7 +14,7 @@
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
