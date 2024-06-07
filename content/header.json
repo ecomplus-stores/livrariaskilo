@@ -1,6 +1,10 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/livros?Livros",
+      "/canetas?Canetas",
+      "/lapis?Lapis"
+    ],
     "random": 6,
     "full_width": true
   },
