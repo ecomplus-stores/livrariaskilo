@@ -5,7 +5,8 @@
       "/canetas?Canetas",
       "/lapis?Lapis",
       "/papel-e-cadernos?Papel-e-Cadernos",
-      "/arte?Arte"
+      "/arte?Arte",
+      "/mochila-e-estojo?Mochila-e-Estojo"
     ],
     "random": 6,
     "full_width": true
