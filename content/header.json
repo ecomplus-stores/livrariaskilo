@@ -3,7 +3,9 @@
     "featured": [
       "/livros?Livros",
       "/canetas?Canetas",
-      "/lapis?Lapis"
+      "/lapis?Lapis",
+      "/papel-e-cadernos?Papel-e-Cadernos",
+      "/arte?Arte"
     ],
     "random": 6,
     "full_width": true
