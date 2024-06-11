@@ -18,7 +18,7 @@
     "link": "/promotion",
     "background": "#329e4e"
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
