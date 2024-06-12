@@ -6,9 +6,10 @@
       "/lapis?Lapis",
       "/papel-e-cadernos?Papel-e-Cadernos",
       "/arte?Arte",
-      "/mochila-e-estojo?Mochila-e-Estojo"
+      "/mochila-e-estojo?Mochila-e-Estojo",
+      "/literatura-crista?Literatura Cristã"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
   "menu_all_departments": true,
