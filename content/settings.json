@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/livrariaskilo",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/livraria-skilo-logo-2-.png",
   "name": "Livraria Skilo",
   "short_name": "Skilo",
   "lang": "pt_br",
@@ -19,8 +19,8 @@
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/livraria-skilo-logo-2-.png",
   "store_id": 51531,
   "description": "Livraria Skilo - Um Mundo de Livros, Papelaria e Material de Arte",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/livraria-skilo-logo-2-.png"
 }
