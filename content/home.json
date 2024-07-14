@@ -37,11 +37,6 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 8,
@@ -51,6 +46,20 @@
       ],
       "sort": "news",
       "shelfs_title": "Arte"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6661eb1ff4e6d85ab2a1e81d:categories:Arte:/arte",
+      "sort": "news",
+      "title": "Arte"
+    },
+    {
+      "type": "page-title",
+      "title": "Loja demo da E-Com Plus",
+      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
