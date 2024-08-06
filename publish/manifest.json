@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ff3e116fa8e468a063840bdc2dfc5323.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b4c2b359006a60e50b508b04684c9006.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8f776544fdc75181ca3b813e6b2f36f0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e33cbbc5a59079ec3d54d89d3c322583.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bb6c723c8cf75c9b284113ff1fae1c51.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Livraria Skilo",
+  "short_name": "Skilo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Livraria Skilo - Um Mundo de Livros, Papelaria e Material de Arte",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
